@@ -2,6 +2,7 @@
 # Deliverable
 
 The definition of deliverable is simply the tasks you have promised to deliver to your client within a proposed timeline under an agreed budget and conditions
+
 The deliverables could be any many form. It could be a piece of paper, a chunk of code, a list of documents , a design of a solution, a strategy , a suggestion. Any thing which both parties ( Provider and Customer ) have agreed to deliver.
 
 # The Components & Characteristics of a Deliverable
