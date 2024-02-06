@@ -38,7 +38,7 @@ Below is the list of items in check list to follow. The documentation can be doc
 | ***Objective***   | Objectives clearly defined?  | Y/N   |    |
 | ***Drivers***   | Driver(s) of the requirements are clearly mentioned?  | Y/N   |    |
 | ***Requirement***   | Requirements are drafted in details without any ambiguities | Y/N   |    |
-| ***Definition of Done***   | Definition of Done drafted, discussed, agreed and signed off | Y/N   |    |
+| [***Definition of Done***](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/deliverables/definition-of-done.md)   | Definition of Done drafted, discussed, agreed and signed off | Y/N   |    |
 | ***Impacts***   | Impacts are considered on existing systems and for near future changes  | Y/N   |    |
 | ***Assumptions***   | Are ALL assumptions are drafted and discussed with alternatives?  | Y/N   |    |
 | ***Risk***   | Risk assessment done on the requirement? Please add the assessment and decision to go ahead (if any)  | Y/N   |    |
