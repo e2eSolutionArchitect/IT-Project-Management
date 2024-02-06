@@ -24,5 +24,5 @@ The deliverables could be any many form. It could be a piece of paper, a chunk o
 - ***Assumptions***
 - Required resources to complete the deliverables ( Tools, Skills, Human Resources, Machines, Access to resources etc)
 
-# Definition of Done (DoD) is very important for a deliverable. 
+# [Definition of Done (DoD)](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/deliverables/definition-of-done.md) is very important for a deliverable. 
 
