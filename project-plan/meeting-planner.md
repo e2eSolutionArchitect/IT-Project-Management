@@ -1,4 +1,4 @@
-# Meeting Calendar 
+# Meeting Planner 
 
 
 |  Type  | Frequency | Time   | Days   |  Purpose  |  Attendees   |
