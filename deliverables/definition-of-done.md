@@ -14,7 +14,7 @@ Think from the perspective of validating the delivarable. Provide the clear and 
 ***Sample requirement:***
 Please create an web application which will help users to create, store and search employee information for XYZ Corp. 
 
-***The Definition of Done should be ***
+***The Definition of Done should be***
 - The web application url ( working application deployed and running )
 - The link of the user manual ( How to use the web application, such as how to login, where to navigate to do create, update etc )
 - Source Code repository link
