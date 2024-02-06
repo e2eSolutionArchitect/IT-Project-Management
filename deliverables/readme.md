@@ -13,6 +13,7 @@ The deliverables could be any many form. It could be a piece of paper, a chunk o
 - The document goes through review by both parties and both parties add comments for any clarification/questions
 - The requirement document contains all comments and responses
 - The document maintain version to keep all the requested and agreed changes tracked ( Who, When, What, Why, Where )
+- The document should clearly mention the assumptions ( if any) and the alternatives if the assumptions are not met
 
 ***Components:***
 
@@ -22,6 +23,9 @@ The deliverables could be any many form. It could be a piece of paper, a chunk o
 - Impacts , ***if not implemented***
 - ***Risk*** regarding the requirement
 - ***Assumptions***
+-   What if the assumptions are not met
+-   Plan to use Alternatives
+-   Plan to manage repercussions for the same
 - Required resources to complete the deliverables ( Tools, Skills, Human Resources, Machines, Access to resources etc)
 
 # [Definition of Done (DoD)](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/deliverables/definition-of-done.md) is very important for a deliverable. 
