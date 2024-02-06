@@ -21,4 +21,8 @@ The deliverables could be any many form. It could be a piece of paper, a chunk o
 - ***Impacts*** of the requirement on existing systems
 - Impacts , ***if not implemented***
 - ***Risk*** regarding the requirement
+- ***Assumptions***
+- Required resources to complete the deliverables ( Tools, Skills, Human Resources, Machines, Access to resources etc)
+
+# Definition of Done (DoD) is very important for a deliverable. 
 
