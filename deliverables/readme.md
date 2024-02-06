@@ -33,7 +33,6 @@ The deliverables could be any many form. It could be a piece of paper, a chunk o
 # Checklist
 |  Item  | Desc   | Response   |  Note  |
 |----|----|----|----|
-| ***Documented***   | Documentation is complete, accessible and clearly readable | Y/N   |    |
 | ***Objective***   | Objectives clearly defined?  | Y/N   |    |
 | ***Drivers***   | Driver(s) of the requirements are clearly mentioned?  | Y/N   |    |
 | ***Requirement***   | Requirements are drafted in details without any ambiguities | Y/N   |    |
@@ -41,7 +40,10 @@ The deliverables could be any many form. It could be a piece of paper, a chunk o
 | ***Impacts***   | Impacts are considered on existing systems and for near future changes  | Y/N   |    |
 | ***Assumptions***   | Are ALL assumptions are drafted and discussed with alternatives?  | Y/N   |    |
 | ***Risk***   | Risk assessment done on the requirement? Please add the assessment and decision to go ahead (if any)  | Y/N   |    |
-| ***Sign Off***   | requirement document has been reviewed, discussed with required stakeholders? and signed off formally by decision maker(s)?  | Y/N   |    |
+| ***Cost***   | Cost analysis done, discussed and approved?  | Y/N   |    |
+| ***Resource***   | Human resources, Tools/Technologies, Skills, Access to resources done?  | Y/N   |    |
+| ***Sign Off***   | Requirement document has been reviewed, discussed with required stakeholders? and signed off formally by decision maker(s)?  | Y/N   |    |
+| ***Document***   | Above all areas are clearly documented. Documentation is complete, accessible and clearly readable for both parties | Y/N   |    |
 
 
 
