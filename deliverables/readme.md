@@ -31,6 +31,8 @@ The deliverables could be any many form. It could be a piece of paper, a chunk o
 # [Definition of Done (DoD)](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/deliverables/definition-of-done.md) is very important for a deliverable. 
 
 # Checklist
+Below is the list of items in check list to follow. The documentation can be document in .doc file or tools like Confluence/GitHub wiki where multiple users can collaborate in parallel under a controlled access environment. 
+
 |  Item  | Desc   | Response   |  Note  |
 |----|----|----|----|
 | ***Objective***   | Objectives clearly defined?  | Y/N   |    |
