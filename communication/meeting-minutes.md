@@ -1,7 +1,9 @@
-# Scrum Call Email
+# Meeting Minutes
 
 Post every verbal communication , there should be an supportive email which gives below details to all attendees and other stakeholders as reference
 The content should be kept in Confluence in below format and reference link should be sent via email to invitees. 
+
+## Minutes of Meeting (MoM) format
 
 |  |  |
 |---|---|
