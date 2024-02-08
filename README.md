@@ -9,6 +9,7 @@ Sample artifacts, tips, and Techniques for IT Project Management
   - [Resource Availability Tracker](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/project-plan/resource-availability-tracker.md)
 - Project Onboarding
 - Requirement Gathering
+- [Communication](https://github.com/e2eSolutionArchitect/IT-Project-Management/tree/main/communication)
 - [Deliverables](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/deliverables/readme.md)
 - - [Definition of Done](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/deliverables/definition-of-done.md)
 - Stakeholder Management
