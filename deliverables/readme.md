@@ -47,5 +47,7 @@ Below is the list of items in check list to follow. The documentation can be doc
 | ***Sign Off***   | Requirement document has been reviewed, discussed with required stakeholders? and signed off formally by decision maker(s)?  | Y/N   |    |
 | ***Document***   | Above all areas are clearly documented. Documentation is complete, accessible and clearly readable for both parties | Y/N   |    |
 
+## IMPORTANT:
+- Any Architectural Decisions should be documented is ADR format. [Click here](https://github.com/TheSolutionArchitect/enterprise-architecture/blob/main/architecture-decision-record.md) for Architectural Decision Record (ADR)
 
 
