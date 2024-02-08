@@ -20,3 +20,6 @@ The content should be kept in Confluence in below format and reference link shou
 |---|---|
 | ***Action Due***  | ***Reason***| ***Due Date*** | ***Assigned to*** | ***New ETA*** |
 | Item4 deployment failed|<li> DevOps team is still analyzing the root cause</li>| ***01-Feb-2024*** | Person1 | 10-Feb-2024 |
+
+## IMPORTANT:
+- Any Architectural Decisions should be documented is ADR format. [Click here](https://github.com/TheSolutionArchitect/enterprise-architecture/blob/main/architecture-decision-record.md) for Architectural Decision Record (ADR)
