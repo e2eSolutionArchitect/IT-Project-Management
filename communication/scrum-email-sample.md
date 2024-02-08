@@ -12,7 +12,8 @@ The content should be kept in Confluence in below format and reference link shou
 | ***Decisions Made & By*** | <li> Support tickets should be acknowedge and resolved by SLA - @DecisionMaker1  </li>  <li> Support Team should coordinate with Development team to address any critical fix -- @DecisionMaker1   </li>  <li> Every fix should have root cause analysis and documented in Confluence as Knowledge base - @DecisionMaker1  </li> |
 
 
-|  |  |
+# Actions Due
+
 |---|---|
 | ***Action Due***  | ***Reason***| ***Due Date*** | ***Assigned to*** | ***New ETA*** |
 | Item4 deployment failed|<li> DevOps team is still analyzing the root cause</li>| ***01-Feb-2024*** | Person1 | 10-Feb-2024 |
