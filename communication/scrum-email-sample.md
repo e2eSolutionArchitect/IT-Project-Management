@@ -1,12 +1,7 @@
 # Scrum Call Email
 
 Post every verbal communication , there should be an supportive email which gives below details to all attendees and other stakeholders as reference
-
-| *** Meeting Title *** | *** Agenda *** |  ***Responses*** | ***Actionabole Items***  | ***Actionable By*** |***ETA*** |
-|---|---|---|---|---|---|
-| ***Daily Scrum*** | | |  |  |  |
-|  |  |  |  |  |  |
-
+The content should be kept in Confluence in below format and reference link should be sent via email to invitees. 
 
 |  |  |
 |---|---|
