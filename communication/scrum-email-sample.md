@@ -14,6 +14,7 @@ The content should be kept in Confluence in below format and reference link shou
 
 # Actions Due
 
+|||
 |---|---|
 | ***Action Due***  | ***Reason***| ***Due Date*** | ***Assigned to*** | ***New ETA*** |
 | Item4 deployment failed|<li> DevOps team is still analyzing the root cause</li>| ***01-Feb-2024*** | Person1 | 10-Feb-2024 |
