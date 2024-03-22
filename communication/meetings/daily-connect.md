@@ -20,6 +20,7 @@ A daily touchbase meeting between team members to address the points as follows
 
 ## Don't
 - Avoid Demo during meeting. Book separate demo time when required
+- Don't change meeting format. Be consistent
 
 ## Plan Daily Conenct ( Ignore if you are following Agile Scrum )
 - Monday ( Start of the week )
