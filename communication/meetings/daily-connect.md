@@ -12,6 +12,7 @@ A daily touchbase meeting between team members to address the points as follows
 - Go round table and every individual shares update
 - Host of the meeting goes through the project board for work items status and updates comments
 - Send Minutes of meeting after meeting to all the invitees
+- Before meeting every individuals need to update task items assigned to them
 
 ## Do
 - ***IMPORTANT*** be consistent with the format of the meeting. Don't do one day walking thought the items and next day just verbal round the table
