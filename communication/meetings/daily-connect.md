@@ -33,3 +33,6 @@ A daily touchbase meeting between team members to address the points as follows
     - What have we worked yesterday
     - What are we working today
     - Any blocker/impediments
+- Friday
+  - Draf accomplishments
+  - Daily agenda
