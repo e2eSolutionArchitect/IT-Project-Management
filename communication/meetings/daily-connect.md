@@ -1,5 +1,7 @@
 # Daily Connect
 
+[Meeting Planner](https://github.com/e2eSolutionArchitect/IT-Project-Management/blob/main/project-plan/meeting-planner.md)
+
 ## Purpose
 A daily touchbase meeting between team members to address the points as follows
 - What have we worked yesterday
