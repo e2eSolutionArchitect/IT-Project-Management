@@ -9,6 +9,7 @@ A daily touchbase meeting between team members to address the points as follows
 ## Activity
 - Go round table and every individual shares update
 - Host of the meeting goes through the project board for work items status and updates comments
+- Send Minutes of meeting after meeting to all the invitees
 
 ## Plan Daily Conenct
 - Monday ( Start of the week )
@@ -19,3 +20,12 @@ A daily touchbase meeting between team members to address the points as follows
     - What have we worked yesterday
     - What are we working today
     - Any blocker/impediments
+
+## Do
+- PL to share very ***clear expection and direction***
+- Align the work items with project plan
+- Draft corect questions
+- Course correct when ever needed
+
+## Don't
+- Avoid Demo during meeting. Book separate demo time when required
