@@ -10,4 +10,4 @@
 
 
 # SABSA Architecture Matrix 2018
-Define followings for every perceptions mentioned above - Asset (What), Motivation (Why), Process (How), People (Who), Location (Where), Time (When)
+Define following for every perception mentioned above - Asset (What), Motivation (Why), Process (How), People (Who), Location (Where), Time (When) - please refer [here](https://sabsacourses.com/wp-content/uploads/2021/02/TSI-R101-SABSA-Matrices-2018-Release-Notes.pdf)
