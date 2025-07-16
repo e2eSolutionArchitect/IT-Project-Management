@@ -31,6 +31,7 @@
 - Customer impact
 - Standard maintenance window
 - Extended maintenance window with justification
+- Visual for when and what systems are available or down
 
 -----------------
 - Rollback plan of each deployment component
