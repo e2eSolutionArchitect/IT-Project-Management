@@ -52,6 +52,7 @@
 
 ------------------
 - QA to provide the test plan
+- QA to have Non-Functional Requirement (NFR)
 - Full shakedown after deployment
 ------------------
 - Post-deployment plan
