@@ -1,3 +1,4 @@
+Note: Below is the list of rough notes to be formalized for a structured release plan.
 
 - Prod release plan
 - Non-impacting Prod release plan (a day before prod release) 
