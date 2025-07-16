@@ -18,9 +18,9 @@
 
 --------------
 - Visual timeline for dependency and start and end times for each activity
-  - Who is doing what, when, and why? with approval from leads (Build Lead/Ops lead/Sol Arc/Release Lead)
+  - Who is doing what, when, and why? With approval from leads (Build Lead/Ops Lead/Sol Arc/Release Lead)
 - Detail the activity of each component
-- - detail sub-activity with clarification from the build team about the required timeline.
+- - Detail sub-activity with clarification from the build team about the required timeline.
   - Cost approval if needed
 - Sign-off from build leads on the timeline, dependency, complete deployment activities, primary and secondary deployment person
 
@@ -35,4 +35,4 @@
 - Rollback plan of each deployment component
 - All component rollback? Or partial?
 - When to decide rollback and in what situations?
-- How long will the rollback talk take place and when to make Go/No-Go decision?
+- How long will the rollback talk take place, and when do we make a Go/No-Go decision?
