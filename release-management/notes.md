@@ -7,6 +7,7 @@
 - Stakeholders list
 - Escalation plan
 - Rollback plan
+- Test plan
 
 -----------
 - Deployment Approach
@@ -36,3 +37,11 @@
 - All component rollback? Or partial?
 - When to decide rollback and in what situations?
 - How long will the rollback talk take place, and when do we make a Go/No-Go decision?
+
+-----------------
+- System Disablement | Deployment | Enablement 
+
+------------------
+- QA to provide the test plan
+- Full shakedown after deployment
+------------------
