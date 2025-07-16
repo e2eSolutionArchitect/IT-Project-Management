@@ -41,11 +41,6 @@
 - When to decide rollback and in what situations?
 - How long will the rollback talk take place, and when do we make a Go/No-Go decision?
 
-------------------
-- Post-deployment plan
-- Who to monitor and what to monitor?
-- What is the SLA in the contract?
-
 -----------------
 - System Disablement | Deployment | Enablement 
 
@@ -53,3 +48,13 @@
 - QA to provide the test plan
 - Full shakedown after deployment
 ------------------
+- Post-deployment plan
+- What to monitor, who should monitor, when, and till when?
+- What is the SLA in the contract?
+
+------------------
+- Report or extract availability
+- Visual for report availability
+- The reconciliation report, transaction report, and others.
+- Who to run (person/scheduler) and when?
+- What is the dependency of the report jobs?
