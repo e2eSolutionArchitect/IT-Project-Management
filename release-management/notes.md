@@ -25,3 +25,6 @@
 
 -----------------
 - Rollback plan of each deployment component
+- All component rollback? Or partial?
+- When to decide rollback and in what situations?
+- How long will the rollback talk take place and when to make Go/No-Go decision?
