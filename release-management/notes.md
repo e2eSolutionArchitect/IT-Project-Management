@@ -7,5 +7,10 @@
 -----------
 - Deployment Approach
 - Deployment Committee meeting
+- Vendor meeting
+- Customer meeting
 - Internal and External Communication
 - Support vendors: Internal and External 
+
+--------------
+
