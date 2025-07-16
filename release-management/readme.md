@@ -8,6 +8,8 @@
 - Escalation plan
 - Rollback plan
 - Test plan
+- Post production plan
+- Release Cost Management
 
 -----------
 - Deployment Approach
@@ -38,6 +40,11 @@
 - All component rollback? Or partial?
 - When to decide rollback and in what situations?
 - How long will the rollback talk take place, and when do we make a Go/No-Go decision?
+
+------------------
+- Post-deployment plan
+- Who to monitor and what to monitor?
+- What is the SLA in the contract?
 
 -----------------
 - System Disablement | Deployment | Enablement 
