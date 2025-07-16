@@ -20,6 +20,12 @@
 - Support vendors: Internal and External 
 
 --------------
+- Initiate Change Request (CR) for deployment
+- Review CR with the Operations team
+
+--------------
+- QA team to provide sign off of QA environment
+--------------
 - Visual timeline for dependency and start and end times for each activity
   - Who is doing what, when, and why? With approval from leads (Build Lead/Ops Lead/Sol Arc/Release Lead)
 - Detail the activity of each component
@@ -58,3 +64,7 @@
 - The reconciliation report, transaction report, and others.
 - Who to run (person/scheduler) and when?
 - What is the dependency of the report jobs?
+
+------------------
+- Post-deployment issues
+- Hot fixes
