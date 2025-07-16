@@ -18,6 +18,7 @@
 
 --------------
 - Visual timeline for dependency and start and end times for each activity
+  - Who is doing what, when, and why? with approval from leads (Build Lead/Ops lead/Sol Arc/Release Lead)
 - Detail the activity of each component
 - - detail sub-activity with clarification from the build team about the required timeline.
   - Cost approval if needed
