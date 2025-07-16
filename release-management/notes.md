@@ -13,4 +13,15 @@
 - Support vendors: Internal and External 
 
 --------------
+- Visual timeline for dependency and start and end times for each activity
+- Detail the activity of each component
 
+--------------
+- Maintenance pages
+- System downtime
+- Customer impact
+- Standard maintenance window
+- Extended maintenance window with justification
+
+-----------------
+- Rollback plan of each deployment component
