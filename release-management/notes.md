@@ -3,6 +3,10 @@
 - Non-impacting Prod release plan (a day before prod release) 
 - Pre-prod release plan
 - Non-impacting Prod release plan (a day before pre-prod release)
+- Communication plan
+- Stakeholders list
+- Escalation plan
+- Rollback plan
 
 -----------
 - Deployment Approach
