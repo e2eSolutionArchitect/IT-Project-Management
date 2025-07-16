@@ -15,6 +15,9 @@
 --------------
 - Visual timeline for dependency and start and end times for each activity
 - Detail the activity of each component
+- - detail sub-activity with clarification from the build team about the required timeline.
+  - Cost approval if needed
+- Sign-off from build leads on the timeline, dependency, complete deployment activities, primary and secondary deployment person
 
 --------------
 - Maintenance pages
