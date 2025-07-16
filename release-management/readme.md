@@ -2,7 +2,7 @@
 - Prod release plan
 - Non-impacting Prod release plan (a day before prod release) 
 - Pre-prod release plan
-- Non-impacting Prod release plan (a day before pre-prod release)
+- Non-impacting Pre-prod release plan (a day before pre-prod release)
 - Communication plan
 - Stakeholders list
 - Escalation plan
